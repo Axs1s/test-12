@@ -35,5 +35,17 @@
       "photo_url": "",
       "balance": 1750
     }
-  ]
+
+  ],
+    "produst":[
+        {
+            "id":1,
+            "name":"pomedor",
+            "price":100000000
+
+        }
+    ]
 }
+
+
+  
