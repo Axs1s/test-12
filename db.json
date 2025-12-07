@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andriy",
+      "surname": "Moskalenko",
+      "photo_url": "",
+      "balance": 1500
+    },
+    {
+      "id": 2,
+      "name": "Oleh",
+      "surname": "Shevchenko",
+      "photo_url": "",
+      "balance": 920
+    },
+    {
+      "id": 3,
+      "name": "Vladyslav",
+      "surname": "Kravets",
+      "photo_url": "",
+      "balance": 2100
+    },
+    {
+      "id": 4,
+      "name": "Mariya",
+      "surname": "Koval",
+      "photo_url": "",
+      "balance": 480
+    },
+    {
+      "id": 5,
+      "name": "Kateryna",
+      "surname": "Bondar",
+      "photo_url": "",
+      "balance": 1750
+    }
+  ]
+}
